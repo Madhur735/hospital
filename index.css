@@ -1,0 +1,77 @@
+
+
+h1, h2, h3 {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+/* navbar */
+.navbar {
+  padding: 0 0 10rem;
+}
+
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+
+/* middle */
+.welcome {
+margin: 50px;
+}
+
+
+.img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.top {
+  margin: 25px;
+}
+.below {
+  margin: 25px;
+}
+.row {
+  line-height: 2;
+}
+.text-j1 {
+  margin-top: 20px;
+}
+
+/* lower */
+.lower-container {
+  background-color: #212121;;
+  color: white;
+  margin: 10px 10px;
+  padding: 7% 10%;
+
+}
+.welcome-heading {
+  position: absolute;
+  margin: 50px;
+
+
+}
+.social-link {
+  line-height: 1.8rem;
+
+}
+.para {
+  text-align: center;
+  margin: 50px
+
+}
